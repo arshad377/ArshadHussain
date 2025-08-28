@@ -1,7 +1,10 @@
-<img width="1394" height="850" alt="image" src="https://github.com/user-attachments/assets/b9c3988f-cddc-4cd1-9e57-00e8588d2930" />
-👋 Hi, I'm Md Arshad Hussain
+<div align="center">
 
-Data Science Enthusiast | Building Foundations in ML & Analytics
+# 👋 Hi, I'm Md Arshad Hussain  
+**Data Science Enthusiast | Building Foundations in ML & Analytics**
+
+</div>
+
 # 💫 About Me:
 🔭 Currently: Sharpening skills in Python, ML, and statistics<br>🌱 Learning: Advanced Data Science techniques<br>🛠️ Tools I Love: Pandas,Numpy,Scikit-learn,Matplotlib,Seaborn<br>📫 Reach Me: arshadattari007@gmail.com<br>📄 Resume: [Link Text](https://drive.google.com/file/d/1waVCe23rVF4NjUfGC9gR6Uwktp84qkko/view?usp=drive_link)
 
