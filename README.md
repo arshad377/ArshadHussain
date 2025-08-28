@@ -7,7 +7,7 @@ Data Science Enthusiast | Building Foundations in ML & Analytics
 
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/47d7b967-b510-491a-a7bf-b984476a0ed2" />
 
-## 🌐 Socials:
+## 🌐 Connect With me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-arshad-hussain-a1529a362/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshadattari007@gmail.com) 
 
 # 💻 Tech Stack:
