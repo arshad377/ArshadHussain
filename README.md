@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently:** Data Science Intern at Rubixe, working on real-world ML projects  
+- **Recently Completed:** Data Science Internship at Rubixe, where I worked on real-world machine learning projects.  
 - 🌱 **Learning:** Advanced Machine Learning & Deep Learning (TensorFlow, XGBoost)  
 - 🛠️ **Tools I Love:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI  
 - 📫 **Reach Me:** [arshadattari007@gmail.com](mailto:arshadattari007@gmail.com)  
